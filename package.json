@@ -1,0 +1,11 @@
+{
+  "name": "vigilant-ws-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0",
+    "ws": "^8.17.0"
+  },
+  "scripts": { "start": "node server.js" }
+}
